@@ -1,0 +1,20 @@
+.bold {
+    font-weight: bold;
+}
+.Div1{
+    background-color: cadetblue;
+}
+h1.Name {
+    font-size:40px; 
+    text-align:center;
+    color: black;
+    font-family:"Times New Roman", Times, serif; 
+}
+
+h2.PT {
+    font-size:35px
+    font-family:"Times New Roman", Times, serif; 
+    color: black;
+
+}
+
